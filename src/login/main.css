@@ -1,0 +1,9 @@
+.kcFormHeaderClass {
+    border: 3px solid red;
+    background-color: yellow;
+}
+.login-pf body{
+    background: url(./img/ateq-cloud2.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
