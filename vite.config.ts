@@ -7,7 +7,8 @@ export default defineConfig({
     plugins: [
         react(),
         keycloakify({
-            accountThemeImplementation: "Single-Page"
+            accountThemeImplementation: "Single-Page",
+            themeName: "ateq-theme-front-acs"
         })
     ]
 });
